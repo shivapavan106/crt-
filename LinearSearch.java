@@ -7,11 +7,14 @@ public class LinearSearch {
         int arr[] = {-11,2,33,53,-99,567,88};
         int target = 53;
         int ans = LinearRange(arr,target,0,3);
-        
-        String str = "shiva";
-        char target1 = 'h';
+        //System.out.println(ans);
+        //System.out.println(Linear2(arr,target));
+        String str = "Karthik";
+        char target1 = 'k';
+        //System.out.println(Arrays.toString(str.toCharArray()));
+        //System.out.println(searchInString(str,target1));
         int ans2 = min(arr);
-        
+        //System.out.println(ans2);
 
 
         int arrof2d[][] = {
